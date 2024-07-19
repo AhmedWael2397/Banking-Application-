@@ -2,15 +2,6 @@
 
 This is a simple banking application written in Python that allows users to create accounts, log in, deposit, withdraw, and transfer funds. The application is designed to be a command-line interface (CLI) program with user interaction via terminal inputs.
 
-## Project Structure
-
-├── BANK
-│ ├── BankServer.py # Contains the Bank and User classes
-│ ├── ClientsApp.py # Handles user data and transactions
-│ └── MainApp.py # Main application logic and user interface
-├── Dockerfile # Dockerfile for containerizing the application
-└── README.md # This file
-
 ## Features
 
 - **Create a New Customer**: Allows users to create a new bank account.
